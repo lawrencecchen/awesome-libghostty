@@ -62,6 +62,7 @@ Last audited: 2026-02-21
 - [loocor/codmate](https://github.com/loocor/codmate) - macOS app for managing Codex/Claude/Gemini CLI sessions with embedded Ghostty-based terminal support.
 - [supabitapp/supacode](https://github.com/supabitapp/supacode) - Native macOS coding-agent command center built with `libghostty`.
 - [coder/mux](https://github.com/coder/mux) - Agent multiplexer with browser and desktop UX using `ghostty-web`.
+- [yangzichao/JustSessions](https://github.com/yangzichao/JustSessions) - Native macOS coding-agent session workspace with an optional libghostty renderer through libghostty-spm.
 
 ## Forks and Variants
 
